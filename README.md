@@ -90,10 +90,10 @@ models = {
 ```
 
 Extra plots for visualizing results from table II.
-![Expirment 1 extra plots](img/exp1_extra_plots.png)
+![Expirment 1 extra plots](plots/exp1_extra_plots.png)
 
 Extra plots for visualizing results from table IV.
-![Expirment 5 extra plots](img/extra_reg_extra_plots.png)
+![Expirment 5 extra plots](plots/extra_reg_extra_plots.png)
 
 ## References
 
